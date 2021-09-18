@@ -1,0 +1,2 @@
+# FEM_ProgrammingProject
+This is a complete MATLAB project, designed for grad engineering students (e.g. ME, CEE, AE, etc.), to learn and internalize finite element methods through implementing the FEM concepts. This project includes a complete (~30 pages) description and instructions for implementation, the skeleton files, and input file examples. The solutions and an auto-grader code to evaluate the students submissions are also available upon request.
