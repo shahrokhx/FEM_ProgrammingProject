@@ -20,4 +20,4 @@ This repository is part of a set of FEM-related codes, where you can find more d
 
 ----
 ##### Acknowledgement: 
-Special thanks to the course instructor, Prof. Rafi Muhanna at Georgia Tech for providing the advice and guidance towards designing and preparation of the materials.
+Special thanks to the course instructor, Prof. Rafi Muhanna at Georgia Tech for providing the advice and insights towards designing and preparation of the materials.
