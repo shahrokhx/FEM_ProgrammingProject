@@ -15,3 +15,9 @@ This repository is part of a set of FEM-related codes, where you can find more d
 
 
 >    In general, <a  href="https://en.wikipedia.org/wiki/Finite_element_method" target="_blank">finite element method (FEM)</a> is used as an effective numerical method to solve differential equations and widely employed in engineering and mathematical modeling, where a mechanical system is divided into discrete subdomains known as finite elements. The technical process of creating finite element meshes and using Gaussian numerical integration to calculate the stiffness of each element, assembly process, and solving the obtained system of equations have always been challenging to implement and understand by both undergrad and graduate students in engineering fields such as Civil Engineering, Mechanical Engineering, Aerospace Engineering, etc. Therefore, as a TA in FEM and advanced FEM course, who also held several sessions and workshops for MATLAB programming and developing FEM codes, I started to develop many demonstrations and educational toolboxes to help students internalize these technical steps. The following is the datails regarding these packages and codes predented in the three sub-sections.
+
+
+
+----
+##### Acknowledgement: 
+Special thanks to the course instructor, Prof. Rafi Muhanna at Georgia Tech for providing the advice and guidance towards designing and preparation of the materials.
